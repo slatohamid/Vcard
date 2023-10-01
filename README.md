@@ -4,6 +4,9 @@ This is a simple Vcard (virtual business card) webpage for Slato Hamid, a web de
 
 https://slatohamid.github.io/Vcard/
 
+![Screenshot](https://github.com/slatohamid/Vcard/assets/117818692/732bb06d-8fe8-4b6f-8649-23dbd80adb47)
+
+
 ## Introduction
 
 This Vcard webpage is designed to showcase Slato Hamid's personal and professional information. It includes details about his contact information, a brief introduction, and links to his resume and portfolio.
