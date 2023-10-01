@@ -40,13 +40,13 @@ body {
   border-radius: 50%;
   overflow: hidden;
   margin-left: 20px;
-  box-shadow: 0 0 0 5px #03a9f4;
+  box-shadow: 0 0 0 5px #fff;
   transition: box-shadow 0.5s;
   
     
 }
 .imgBx:hover {
-  box-shadow: 0 0 0 5px #fff;
+  box-shadow: 0 0 0 5px #03a9f4;
 }
 
 .imgBx img {
