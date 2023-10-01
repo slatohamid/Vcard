@@ -2,6 +2,8 @@
 
 This is a simple Vcard (virtual business card) webpage for Slato Hamid, a web developer. It provides information about Slato Hamid, his contact details, and links to his resume and portfolio.
 
+https://slatohamid.github.io/Vcard/
+
 ## Introduction
 
 This Vcard webpage is designed to showcase Slato Hamid's personal and professional information. It includes details about his contact information, a brief introduction, and links to his resume and portfolio.
